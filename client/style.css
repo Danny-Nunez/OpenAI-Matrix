@@ -11,6 +11,8 @@ body {
   background: #343541;
 }
 
+canvas {display:block;}
+
 #app {
   width: 100vw;
   height: 100vh;
