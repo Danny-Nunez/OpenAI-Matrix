@@ -43,7 +43,7 @@ body {
 #chat_container::-webkit-scrollbar {
   display: none;
 }
-
+ 
 .wrapper {
   width: 100%;
   padding: 15px;
