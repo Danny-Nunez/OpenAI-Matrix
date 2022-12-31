@@ -9,5 +9,5 @@ Communication with advanced GPT3 model API.<br>
 The ability to ask the AI for help with javascript, reactJS and other languages. Giving it code & translating it to another language.<br>
 Responsive Layout with CSS.<br>
 <p></p>
-TechStack:
+TechStack:<br>
 HTML5, CSS, Vanilla Javascript, Vite, React, NodeJS, Express, OpenAI, Render, Vercel.
