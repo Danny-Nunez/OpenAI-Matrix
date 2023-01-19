@@ -13,5 +13,6 @@ https://open-ai-matrix.vercel.app/ <br />
 - Responsive Layout with CSS.<br>
 <p></p>
 
-<h3>TechStack</h3>
+## Tech Stack Used
 - HTML5, CSS, Vanilla Javascript, Vite, React, NodeJS, Express, OpenAI, Render, Vercel.
+
