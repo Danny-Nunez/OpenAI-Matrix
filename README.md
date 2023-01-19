@@ -13,6 +13,7 @@ https://open-ai-matrix.vercel.app/ <br />
 - Responsive Layout with CSS.<br>
 <p></p>
 
-## Tech Stack Used
-- HTML5, CSS, Vanilla Javascript, Vite, React, NodeJS, Express, OpenAI, Render, Vercel.
+### Tech Stack Used
+
+![ViteJS](https://img.shields.io/badge/-viteJS-black?style=round-square&logo=vite&logoColor=green) ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-black?logo=express) ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) ![Render](https://img.shields.io/badge/-Render-black?logo=render) ![Nodemon](https://img.shields.io/badge/-Nodemon-black?logo=nodemon) ![OpenAI](https://img.shields.io/badge/-OpenAI-black?logo=openai) 
 
